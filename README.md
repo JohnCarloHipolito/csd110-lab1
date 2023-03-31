@@ -1,1 +1,2 @@
-# csd110-lab1
+# Assignment Instructions - Lab 1
+## John Carlo Hipolito
